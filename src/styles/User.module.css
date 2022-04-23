@@ -1,0 +1,10 @@
+.user {
+	background-color: cyan;
+	width: 80%;
+	margin: 15px auto;
+	padding: 10px 20px;
+}
+
+.btn {
+	background-color: goldenrod;
+}
