@@ -26,3 +26,17 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed.
 
+Attendence System used jsonplaceholder as fake REST API, Context API in React and axios to make HTTP Requests, used Material-UI to design website.
+
+Make some functionalities:
+
+- Form to add a user.
+
+- Display all users entered in a table.
+
+- Filter users by age.
+
+- Delete a user when needed.
+
+- To check if users did the tasks needed and mark these tasks as done.
+
